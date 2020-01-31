@@ -2,4 +2,4 @@
 Third Year Project - FCIS Suez Universty -
 A Flask WebServer retrieves Students' attendance image using json , classes used to do Face Recognition according to trained data installed by the user, 
 Face Recognition is implemented using opencv library.   
-<img src="1.png"/>
+<img src="1.png">
